@@ -1,0 +1,14 @@
+body{
+    background-color: gray;
+}
+.heading{
+    background-color: lawngreen;
+    border: 5px solid white;
+    width: 1080px;
+    padding-left: 20px;
+    margin-left: 70px;
+    border-radius: 20px;
+}
+.messi{
+    color: white;
+}
